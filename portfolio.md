@@ -35,6 +35,6 @@ Currently, I work at a *media agency*, where I provide **IT support** and contri
 |Teamwork|Advanced|10+ years (sports team, group assignments)
 
 ## Contact
-[x] [Email](mailto:asilvaguerrero@cifpfbmoll.eu)  
-[ ] Phone  
-[ ] Linkedin  
+- [x] [Email](mailto:asilvaguerrero@cifpfbmoll.eu)  
+- [ ] Phone  
+- [ ] Linkedin  
