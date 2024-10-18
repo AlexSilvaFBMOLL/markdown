@@ -37,4 +37,4 @@ Currently, I work at a *media agency*, where I provide **IT support** and contri
 ## Contact
 - [x] [Email](mailto:asilvaguerrero@cifpfbmoll.eu)  
 - [ ] Phone  
-- [ ] Linkedin  
+- [ ] Linkedin
